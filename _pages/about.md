@@ -140,7 +140,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
    Xuanhan Fan, **Menghui Zhou* **, Yu Zhang, Jun Qi, Yun Yang, Po Yang*;
    Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
 - `KBS 2024` [Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge](https://doi.org/10.1016/j.knosys.2024.112187);
-   Xiangchao Chang, **Menghui Zhou* **, Xulong Wang, Yun Yang, Po Yang*;
+   Xiangchao Chang, **Menghui Zhou* **, Xulong Wang, Yun Yang, Po Yang *;
    Published in *Knowledge-Based Systems*
 
 # 🎖 Honors and Awards
@@ -175,4 +175,4 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
 
 
 
-<div style="height: 25px;"></div>
+<div style="height: 50px;"></div>
