@@ -25,7 +25,7 @@ where I worked closely with [Prof. Yun Yang](https://scholar.google.com/citation
 and [Prof. Po Yang](https://scholar.google.com/citations?hl=en&user=RdK3cwgAAAAJ). 
 
 My research interests primarily focus on interpretable machine learning, with applications in healthcare and smart agriculture.
-I have published over 20 papers with total <a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'> google scholar citations
+I have published over 20 papers with total <a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> google scholar citations
 in leading international AI journals and conferences, including TKDE, KDD, and AAAI.
 
 
