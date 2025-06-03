@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Menghui Zhou, a second-year PhD student in the Pervasive Computing group at the University of Sheffield, UK,
+I am Menghui Zhou, a second-year PhD student in the Pervasive Computing group at the [University of Sheffield](https://www.sheffield.ac.uk/?home), UK,
 working under the supervision of [Prof. Po Yang](https://scholar.google.com/citations?hl=en&user=RdK3cwgAAAAJ).
 I hold a bachelor’s degree from the School of Computer Science and Engineering
 at [Sun Yat-sen University](https://cse.sysu.edu.cn/),
