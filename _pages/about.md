@@ -29,8 +29,8 @@ in leading international AI conferences and journals, including KDD, AAAI, and T
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 One paper on multimodal approaches for Alzheimer’s disease diagnosis has been accepted by the journal Engineering Applications of Artificial Intelligence.
+
 
 # 📝 Publications 
 
