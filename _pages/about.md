@@ -36,7 +36,7 @@ Please drop me an email if you are interested in collaborating with me.
 - *2024.12*: &nbsp;🎉🎉 Four papers were accepted by the International Conference on
    Bioinformatics and Biomedicine (BIBM).
 
-# 📝 Publications
+# 📝 Selected Publications
 
 **As the First Author:**
 
@@ -133,6 +133,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
 - `KBS 2024` [Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge](https://doi.org/10.1016/j.knosys.2024.112187);  
   Xiangchao Chang, **Menghui Zhou**\*, Xulong Wang, Yun Yang, Po Yang\*;  
   Published in *Knowledge-Based Systems*
+
 
 # 🎖 Honors and Awards
 
