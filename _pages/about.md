@@ -38,8 +38,7 @@ Please drop me an email if you are interested in collaborating with me.
 
 # 📝 Publications
 
-**First Author**
-
+**As the First Author:**
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -122,7 +121,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
    **Menghui Zhou**, Xulong Wang, Yun Yang, Fengtao Nan, Yu Zhang, Jun Qi, Po Yang;
    Published in *The 17th International Conference on Mobility, Sensing and Networking*
 
-**Corresponding Author**
+**As the Corresponding Author:**
 
 - `EAAI 2025` [Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis](https://doi.org/10.1016/j.engappai.2025.111102);  
   Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, Menghui Zhou*, Jun Qi, Hanwen Wang, Po Yang*;  
