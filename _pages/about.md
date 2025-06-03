@@ -107,32 +107,32 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 </div>
 
 
-- `BIBM 2024` [Learning Interpretable Continuous Representation for Alzheimer’s Disease Classification](https://doi.org/10.1109/BIBM62325.2024.10821731);
-**Menghui Zhou**, Mingxia Wang, Yu Zhang, Zhipeng Yuan, Vitaveska Lanfranchi, Po Yang;
-Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
-- `NCA 2023` [Efficient multi-task learning with adaptive temporal structure for progression prediction](https://link.springer.com/article/10.1007/s00521-023-08461-9);
-      **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
-    Published in *Neural Computing and Applications*
-- `CIKM 2022` [Multi-task Learning with Adaptive Global Temporal Structure for Predicting Alzheimer's Disease Progression](https://doi.org/10.1145/3511808.3557406);
-    **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
-    Published in *The 31st ACM International Conference on Information & Knowledge*
-- `MSN 2021` [Modeling disease progression flexibly with nonlinear disease structure via multi-task learning](https://doi.org/10.1109/MSN53354.2021.00063);
-   **Menghui Zhou**, Xulong Wang, Yun Yang, Fengtao Nan, Yu Zhang, Jun Qi, Po Yang;
-   Published in *The 17th International Conference on Mobility, Sensing and Networking*
+- `BIBM 2024` [Learning Interpretable Continuous Representation for Alzheimer’s Disease Classification](https://doi.org/10.1109/BIBM62325.2024.10821731);    
+   **Menghui Zhou**, Mingxia Wang, Yu Zhang, Zhipeng Yuan, Vitaveska Lanfranchi, Po Yang;    
+   Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*    
+- `NCA 2023` [Efficient multi-task learning with adaptive temporal structure for progression prediction](https://link.springer.com/article/10.1007/s00521-023-08461-9);    
+-   **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;    
+    Published in *Neural Computing and Applications*    
+- `CIKM 2022` [Multi-task Learning with Adaptive Global Temporal Structure for Predicting Alzheimer's Disease Progression](https://doi.org/10.1145/3511808.3557406);  
+     **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;  
+    Published in *The 31st ACM International Conference on Information & Knowledge*  
+- `MSN 2021` [Modeling disease progression flexibly with nonlinear disease structure via multi-task learning](https://doi.org/10.1109/MSN53354.2021.00063);  
+   **Menghui Zhou**, Xulong Wang, Yun Yang, Fengtao Nan, Yu Zhang, Jun Qi, Po Yang;  
+   Published in *The 17th International Conference on Mobility, Sensing and Networking*  
 
 **As the Corresponding Author:**
 
-- `EAAI 2025` [Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis](https://doi.org/10.1016/j.engappai.2025.111102);  
+- `EAAI 2025` [Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis](https://doi.org/10.1016/j.engappai.2025.111102);   
   Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, **Menghui Zhou**\*, Jun Qi, Hanwen Wang, Po Yang\*;  
   Published in *Engineering Applications of Artificial Intelligence*
 
-- `BIBM 2024` [Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression](https://doi.org/10.1109/BIBM62325.2024.10822758);  
-  Xuanhan Fan, **Menghui Zhou**\*, Yu Zhang, Jun Qi, Yun Yang, Po Yang\*;  
-  Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
+- `BIBM 2024` [Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression](https://doi.org/10.1109/BIBM62325.2024.10822758);    
+  Xuanhan Fan, **Menghui Zhou**\*, Yu Zhang, Jun Qi, Yun Yang, Po Yang\*;    
+  Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*  
 
-- `KBS 2024` [Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge](https://doi.org/10.1016/j.knosys.2024.112187);  
-  Xiangchao Chang, **Menghui Zhou**\*, Xulong Wang, Yun Yang, Po Yang\*;  
-  Published in *Knowledge-Based Systems*
+- `KBS 2024` [Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge](https://doi.org/10.1016/j.knosys.2024.112187);    
+  Xiangchao Chang, **Menghui Zhou**\*, Xulong Wang, Yun Yang, Po Yang\*;      
+   Published in *Knowledge-Based Systems*  
 
 
 # 🎖 Honors and Awards
