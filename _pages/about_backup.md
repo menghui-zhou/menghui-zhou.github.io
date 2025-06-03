@@ -99,33 +99,6 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 </div>
 
 
-**First Author**
-- `BIBM 2024` [Learning Interpretable Continuous Representation for Alzheimer’s Disease Classification](https://doi.org/10.1109/BIBM62325.2024.10821731); 
-    **Menghui Zhou**, Mingxia Wang, Yu Zhang, Zhipeng Yuan, Vitaveska Lanfranchi, Po Yang;
-    Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
-- `TKDE 2024` [Integrating Visualised Automatic Temporal Relation Graph into Multi-Task Learning for Alzheimer’s
-                 Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495318); 
-    **Menghui Zhou**, Xulong Wang, Tong Liu, Yun Yang, Po Yang;
-    Published in *IEEE Transactions on Knowledge and Data Engineering*
-- `KDD 2023` [Automatic Temporal Relation in Multi-Task Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599261); 
-    **Menghui Zhou**, Po Yang;
-    Published in *The 29th ACM Conference on Knowledge Discovery and Data Mining*
-- `AAAI 2023` [Robust Temporal Smoothness in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26351); 
-    **Menghui Zhou**, Yu Zhang, Yun Yang, Tong Liu, Po Yang;
-    Published in *The 37th AAAI Conference on Artificial Intelligence*
-- `NCA 2023` [Efficient multi-task learning with adaptive temporal structure for progression prediction](https://link.springer.com/article/10.1007/s00521-023-08461-9);
-    **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
-    Published in *Neural Computing and Applications* 
-- `CIKM 2022` [Multi-task Learning with Adaptive Global Temporal Structure for Predicting Alzheimer's Disease Progression](https://doi.org/10.1145/3511808.3557406);
-    **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
-    Published in *The 31st ACM International Conference on Information & Knowledge* 
-- `MSN 2021` [Modeling disease progression flexibly with nonlinear disease structure via multi-task learning](https://doi.org/10.1109/MSN53354.2021.00063);
-    **Menghui Zhou**, Xulong Wang, Yun Yang, Fengtao Nan, Yu Zhang, Jun Qi, Po Yang;
-    Published in *The 17th International Conference on Mobility, Sensing and Networking*
-
-**Corresponding Author**
-
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
