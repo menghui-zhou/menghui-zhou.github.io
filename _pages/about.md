@@ -134,7 +134,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
 **Corresponding Author**
 
 - `EAAI 2025` [Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis](https://doi.org/10.1016/j.engappai.2025.111102);  
-  Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, **Menghui Zhou***, Jun Qi, Hanwen Wang, Po Yang<sup>*</sup>;  
+  Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, **Menghui Zhou** *, Jun Qi, Hanwen Wang, Po Yang<sup>*</sup>;  
   Published in *Engineering Applications of Artificial Intelligence*
 
 - `BIBM 2024` [Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression](https://doi.org/10.1109/BIBM62325.2024.10822758);  
