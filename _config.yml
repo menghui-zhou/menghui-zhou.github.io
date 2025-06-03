@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Menghui Zhou"
-description              : "Welcome to Menghui Zhou’s Website"
+description              : "Focusing on interpretability of learning"
 repository               : "menghui-zhou/menghui-zhou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Sheffield, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=t8Y_gnsAAAAJ"
   email            : "menghui.zhou@sheffield.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
