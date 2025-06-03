@@ -24,14 +24,16 @@ and a master’s degree from the School of Software at [Yunnan University](http:
 where I worked closely with [Prof. Yun Yang](https://scholar.google.com/citations?user=pUBf8LwAAAAJ) 
 and [Prof. Po Yang](https://scholar.google.com/citations?hl=en&user=RdK3cwgAAAAJ). 
 
-My research interests primarily focus on interpretable machine learning, with applications in healthcare and smart agriculture.
-I have published over 20 papers with total <a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> google scholar citations
-in leading international AI journals and conferences, including TKDE, KDD, and AAAI.
+
+My research primarily focuses on interpretable machine learning and its applications in healthcare and smart agriculture.
+
+Please drop me an email if you are interested in collaborating with me.
 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by the journal Engineering Applications of Artificial Intelligence.
 - *2024.12*: &nbsp;🎉🎉 Four papers were accepted by the International Conference on Bioinformatics and Biomedicine (BIBM).
+
 
 # 📝 Publications 
 
@@ -153,3 +155,6 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 
 
 -->
+
+
+<a href='https://clustrmaps.com/site/1bw4v'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=t&d=QjzhdT3Oe4EwddJpt7uzrPc4x5n47N6UfVJ4LdvZFKI&co=2d78ad&ct=ffffff'/></a>
