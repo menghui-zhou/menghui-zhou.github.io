@@ -33,8 +33,8 @@ Please drop me an email if you are interested in collaborating with me.
 # 🔥 News
 
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by the journal Engineering Applications of Artificial Intelligence.
-- *2024.12*: &nbsp;🎉🎉 Four papers were accepted by the International Conference on Bioinformatics and Biomedicine (
-  BIBM).
+- *2024.12*: &nbsp;🎉🎉 Four papers were accepted by the International Conference on
+   Bioinformatics and Biomedicine (BIBM).
 
 # 📝 Publications
 
@@ -122,7 +122,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
   **Menghui Zhou**, Yu Zhang, Yun Yang, Tong Liu, Po Yang;
    Published in *The 37th AAAI Conference on Artificial Intelligence*
 - `NCA 2023` [Efficient multi-task learning with adaptive temporal structure for progression prediction](https://link.springer.com/article/10.1007/s00521-023-08461-9);
-   **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
+      **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
     Published in *Neural Computing and Applications*
 - `CIKM 2022` [Multi-task Learning with Adaptive Global Temporal Structure for Predicting Alzheimer's Disease Progression](https://doi.org/10.1145/3511808.3557406);
     **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
