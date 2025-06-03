@@ -129,7 +129,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
     <a href="https://doi.org/10.1016/j.engappai.2025.111102">
       Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis
     </a>; <br>
-    Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, <b>Menghui Zhou</b>, Jun Qi, Hanwen Wang, Po Yang<sup>*</sup>; <br>
+    Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, <b>Menghui Zhou<sup>*</sup></b>, Jun Qi, Hanwen Wang, Po Yang<sup>*</sup>; <br>
     <i>Published in Engineering Applications of Artificial Intelligence</i>
   </li>
 
@@ -138,7 +138,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
     <a href="https://doi.org/10.1109/BIBM62325.2024.10822758">
       Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression
     </a>; <br>
-    Xuanhan Fan, <b>Menghui Zhou</b>, Yu Zhang, Jun Qi, Yun Yang, Po Yang<sup>*</sup>; <br>
+    Xuanhan Fan, <b>Menghui Zhou<sup>*</sup></b>, Yu Zhang, Jun Qi, Yun Yang, Po Yang<sup>*</sup>; <br>
     <i>Published in 2024 IEEE International Conference on Bioinformatics and Biomedicine</i>
   </li>
 
@@ -147,7 +147,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
     <a href="https://doi.org/10.1016/j.knosys.2024.112187">
       Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge
     </a>; <br>
-    Xiangchao Chang, <b>Menghui Zhou</b>, Xulong Wang, Yun Yang, Po Yang<sup>*</sup>; <br>
+    Xiangchao Chang, <b>Menghui Zhou<sup>*</sup></b>, Xulong Wang, Yun Yang, Po Yang<sup>*</sup>; <br>
     <i>Published in Knowledge-Based Systems</i>
   </li>
 </ul>
