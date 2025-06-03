@@ -111,7 +111,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
    **Menghui Zhou**, Mingxia Wang, Yu Zhang, Zhipeng Yuan, Vitaveska Lanfranchi, Po Yang;    
    Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*    
 - `NCA 2023` [Efficient multi-task learning with adaptive temporal structure for progression prediction](https://link.springer.com/article/10.1007/s00521-023-08461-9);    
--   **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;    
+   **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;    
     Published in *Neural Computing and Applications*    
 - `CIKM 2022` [Multi-task Learning with Adaptive Global Temporal Structure for Predicting Alzheimer's Disease Progression](https://doi.org/10.1145/3511808.3557406);  
      **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;  
