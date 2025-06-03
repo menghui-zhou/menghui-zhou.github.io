@@ -138,11 +138,11 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
   Published in *Engineering Applications of Artificial Intelligence*
 
 - `BIBM 2024` [Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression](https://doi.org/10.1109/BIBM62325.2024.10822758);  
-  Xuanhan Fan, **Menghui Zhou***, Yu Zhang, Jun Qi, Yun Yang, Po Yang<sup>*</sup>;  
+  Xuanhan Fan, **Menghui Zhou<sup>*</sup>**, Yu Zhang, Jun Qi, Yun Yang, Po Yang<sup>*</sup>;  
   Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
 
 - `KBS 2024` [Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge](https://doi.org/10.1016/j.knosys.2024.112187);  
-  Xiangchao Chang, **Menghui Zhou***, Xulong Wang, Yun Yang, Po Yang<sup>*</sup>;  
+  Xiangchao Chang, **Menghui Zhou<sup>*</sup> **, Xulong Wang, Yun Yang, Po Yang<sup>*</sup>;  
   Published in *Knowledge-Based Systems*
 
 # 🎖 Honors and Awards
