@@ -123,34 +123,17 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
 
 **As the Corresponding Author:**
 
-<ul>
-  <li>
-    <b>EAAI 2025</b> 
-    <a href="https://doi.org/10.1016/j.engappai.2025.111102">
-      Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis
-    </a>; <br>
-    Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, <b>Menghui Zhou<sup>*</sup></b>, Jun Qi, Hanwen Wang, Po Yang<sup>*</sup>; <br>
-    <i>Published in Engineering Applications of Artificial Intelligence</i>
-  </li>
+- `EAAI 2025` [Joint image synthesis and fusion with converted features for Alzheimer’s disease diagnosis](https://doi.org/10.1016/j.engappai.2025.111102);  
+  Zhaodong Chen, Mingxia Wang, Fengtao Nan, Yun Yang, Shunbao Li, **Menghui Zhou**\*, Jun Qi, Hanwen Wang, Po Yang\*;  
+  Published in *Engineering Applications of Artificial Intelligence*
 
-  <li>
-    <b>BIBM 2024</b> 
-    <a href="https://doi.org/10.1109/BIBM62325.2024.10822758">
-      Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression
-    </a>; <br>
-    Xuanhan Fan, <b>Menghui Zhou<sup>*</sup></b>, Yu Zhang, Jun Qi, Yun Yang, Po Yang<sup>*</sup>; <br>
-    <i>Published in 2024 IEEE International Conference on Bioinformatics and Biomedicine</i>
-  </li>
+- `BIBM 2024` [Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression](https://doi.org/10.1109/BIBM62325.2024.10822758);  
+  Xuanhan Fan, **Menghui Zhou**\*, Yu Zhang, Jun Qi, Yun Yang, Po Yang\*;  
+  Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
 
-  <li>
-    <b>KBS 2024</b> 
-    <a href="https://doi.org/10.1016/j.knosys.2024.112187">
-      Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge
-    </a>; <br>
-    Xiangchao Chang, <b>Menghui Zhou<sup>*</sup></b>, Xulong Wang, Yun Yang, Po Yang<sup>*</sup>; <br>
-    <i>Published in Knowledge-Based Systems</i>
-  </li>
-</ul>
+- `KBS 2024` [Informative relationship multi-task learning: Exploring pairwise contribution across tasks’ sharing knowledge](https://doi.org/10.1016/j.knosys.2024.112187);  
+  Xiangchao Chang, **Menghui Zhou**\*, Xulong Wang, Yun Yang, Po Yang\*;  
+  Published in *Knowledge-Based Systems*
 
 # 🎖 Honors and Awards
 
