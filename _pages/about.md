@@ -78,7 +78,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 **Menghui Zhou**, Po Yang
 
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
-- This paper introduces Auto-TR, an automated framework that jointly learns temporal relation graphs
+- This paper introduces AutoTR, an automated framework that jointly learns temporal relation graphs
   and predictive models for disease progression using longitudinal data,
   achieving state-of-the-art performance while enhancing model interpretability.
 
