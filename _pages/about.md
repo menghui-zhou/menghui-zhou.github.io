@@ -22,17 +22,16 @@ I hold a bachelor’s degree from the School of Computer Science and Engineering
 and a master’s degree from the School of Software at Yunnan University, where I worked closely with Professors Yun Yang and Po Yang. 
 
 My research interests primarily focus on interpretable machine learning, with applications in healthcare and smart agriculture.
-I have published over 20 papers 
-<a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
-in leading international AI conferences and journals, including KDD, AAAI, and TKDE.
+I have published over 20 papers in leading international AI conferences and journals, including KDD, AAAI, and TKDE.
 
+<a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper on multimodal approaches for Alzheimer’s disease diagnosis has been accepted by the journal Engineering Applications of Artificial Intelligence.
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by the journal Engineering Applications of Artificial Intelligence.
+- *2024.12*: &nbsp;🎉🎉 Four papers were accepted by the International Conference on Bioinformatics and Biomedicine (BIBM).
 
-
-# 📝 Publications 
+# 📝 Featured Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
