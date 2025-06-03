@@ -138,6 +138,7 @@ Published in *2024 IEEE International Conference on Bioinformatics and Biomedici
 
 - *2024* BIBM Travel Grant
 - *2023* EPSRC Scholarship, UK
+- *2023* Outstanding Master’s Thesis, Yunnan University
 - *2022* China National Scholarship.
 
 <!-- 
