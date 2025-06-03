@@ -94,8 +94,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 - AAAI Conference on Artificial Intelligence (AAAI), 2023
 - The paper proposes two Robust Temporal Smoothness (RoTS) frameworks for multi-task learning that jointly capture
    temporal smoothness across tasks and detect outlier tasks, outperforming traditional 
-     smoothness-based methods in both theoretical analysis and real-world applications 
-    without increasing computational complexity.
+     smoothness-based methods  without increasing computational complexity.
 </div>
 </div>
 
