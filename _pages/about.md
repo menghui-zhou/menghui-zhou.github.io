@@ -38,9 +38,8 @@ Please drop me an email if you are interested in collaborating with me.
 
 # 📝 Publications
 
+**First Author**
 
-## Featured Publications
-  
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -110,21 +109,9 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 </div>
 
 
-**First Author**
-
 - `BIBM 2024` [Learning Interpretable Continuous Representation for Alzheimer’s Disease Classification](https://doi.org/10.1109/BIBM62325.2024.10821731);
 **Menghui Zhou**, Mingxia Wang, Yu Zhang, Zhipeng Yuan, Vitaveska Lanfranchi, Po Yang;
 Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*
-- `TKDE 2024` [Integrating Visualised Automatic Temporal Relation Graph into Multi-Task Learning for Alzheimer’s
-  Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495318);
-  **Menghui Zhou**, Xulong Wang, Tong Liu, Yun Yang, Po Yang;
-  Published in *IEEE Transactions on Knowledge and Data Engineering*
-- `KDD 2023` [Automatic Temporal Relation in Multi-Task Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599261);
-  **Menghui Zhou**, Po Yang;
-  Published in *The 29th ACM Conference on Knowledge Discovery and Data Mining*
-- `AAAI 2023` [Robust Temporal Smoothness in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26351);
-  **Menghui Zhou**, Yu Zhang, Yun Yang, Tong Liu, Po Yang;
-   Published in *The 37th AAAI Conference on Artificial Intelligence*
 - `NCA 2023` [Efficient multi-task learning with adaptive temporal structure for progression prediction](https://link.springer.com/article/10.1007/s00521-023-08461-9);
       **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;
     Published in *Neural Computing and Applications*
