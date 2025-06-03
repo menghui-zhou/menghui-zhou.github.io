@@ -51,7 +51,7 @@ Graph into Multi-Task Learning for Alzheimer’s
 Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10495318)
 
 **Menghui Zhou**, Xulong Wang, Tong Liu, Yun Yang, Po Yang
-- IEEE Transactions on Knowledge and Data Engineering, 2024
+- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024
 - This paper proposes a novel multi-task learning framework, MAGPP, which integrates an automatically learned 
   temporal relation graph and sparse group Lasso to improve Alzheimer’s 
   disease progression prediction using MRI data.
@@ -71,10 +71,30 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 [Automatic Temporal Relation in Multi-Task Learning](https://dl.acm.org/doi/pdf/10.1145/3580305.3599261)
 
 **Menghui Zhou**,   Po Yang
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023
 - This paper introduces Auto-TR, an automated framework that jointly learns temporal relation graphs 
     and predictive models for disease progression using longitudinal data, 
   achieving state-of-the-art performance while enhancing model interpretability.
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">AAAI 2023</div>
+<img src='images/aaai2023-500x300.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Temporal Smoothness in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26351)
+**Menghui Zhou**, Yu Zhang, Yun Yang, Tong Liu, Po Yang
+- AAAI Conference on Artificial Intelligence (AAAI), 2023
+- The paper proposes two Robust Temporal Smoothness (RoTS) frameworks for multi-task learning that jointly capture
+   temporal smoothness across tasks and detect outlier tasks, outperforming traditional 
+     smoothness-based methods in both theoretical analysis and real-world applications 
+    without increasing computational complexity.
 </div>
 </div>
 
