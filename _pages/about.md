@@ -89,6 +89,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 <div class='paper-box-text' markdown="1">
 
 [Robust Temporal Smoothness in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26351)
+
 **Menghui Zhou**, Yu Zhang, Yun Yang, Tong Liu, Po Yang
 - AAAI Conference on Artificial Intelligence (AAAI), 2023
 - The paper proposes two Robust Temporal Smoothness (RoTS) frameworks for multi-task learning that jointly capture
