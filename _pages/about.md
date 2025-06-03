@@ -22,7 +22,10 @@ I hold a bachelor’s degree from the School of Computer Science and Engineering
 and a master’s degree from the School of Software at Yunnan University, where I worked closely with Professors Yun Yang and Po Yang. 
 
 My research interests primarily focus on interpretable machine learning, with applications in healthcare and smart agriculture.
-I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published over 20 papers 
+<a href='https://scholar.google.com/citations?user=t8Y_gnsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+in leading international AI conferences and journals, including KDD, AAAI, and TKDE.
+
 
 
 # 🔥 News
