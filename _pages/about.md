@@ -39,7 +39,7 @@ Please drop me an email if you are interested in collaborating with me.
 # 📝 Publications
 
 
-**Featured Publications**
+## Featured Publications
   
 
 <div class='paper-box'>
