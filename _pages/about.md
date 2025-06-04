@@ -160,9 +160,9 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 <hr>
 <div style="height: 25px;"></div>
 <div align="center">
-  <a href='https://clustrmaps.com/site/1bw4v'  title='Visit tracker'>
-    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=t&d=QjzhdT3Oe4EwddJpt7uzrPc4x5n47N6UfVJ4LdvZFKI&co=2d78ad&ct=ffffff'/>
-  </a>
+<a href='https://clustrmaps.com/site/1bw4v'  title='Visit tracker'>
+<img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=t&d=QjzhdT3Oe4EwddJpt7uzrPc4x5n47N6UfVJ4LdvZFKI'/>
+</a>
 </div>
 
 
