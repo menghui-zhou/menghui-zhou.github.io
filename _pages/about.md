@@ -38,8 +38,6 @@ Please drop me an email if you are interested in collaborating with me.
 
 # 📝 Selected Publications
 
-**As the First Author:**
-
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
