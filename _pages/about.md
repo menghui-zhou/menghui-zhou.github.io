@@ -116,7 +116,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
   Xuanhan Fan, **Menghui Zhou**\*, Yu Zhang, Jun Qi, Yun Yang, Po Yang\*;    
   Published in *2024 IEEE International Conference on Bioinformatics and Biomedicine*  
   
-- `BIBM 2023` [Learning Interpretable Continuous Representation for Alzheimer’s Disease Classification](https://doi.org/10.1109/BIBM62325.2024.10821731);    
+- `BIBM 2024` [Learning Interpretable Continuous Representation for Alzheimer’s Disease Classification](https://doi.org/10.1109/BIBM62325.2024.10821731);    
    **Menghui Zhou**, Mingxia Wang, Yu Zhang, Zhipeng Yuan, Vitaveska Lanfranchi, Po Yang;    
    Published in *2023 IEEE International Conference on Bioinformatics and Biomedicine*
   
