@@ -157,6 +157,10 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
    Published in *The 17th International Conference on Mobility, Sensing and Networking*  
 
 
+# 🌈  Professional Activities
+- PC Members:
+  - Conference: ICML / NeurIPS / ICLR / AAAI / KDD, etc.
+  - Journal: TKDE / TNNLS / TCYB / PR / KBS, etc.
 
 
 # 🎖 Honors and Awards
