@@ -136,7 +136,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
   Xiangchao Chang, **Menghui Zhou**\*, Xulong Wang, Yun Yang, Po Yang\*;      
    Published in *Knowledge-Based Systems*
 
-<!-- 
+
 
 - `BIBM 2024` [Adaptive Multi-Cognitive Objective Temporal Task Approach for Predicting AD Progression](https://doi.org/10.1109/BIBM62325.2024.10822758);    
   Xuanhan Fan, **Menghui Zhou**\*, Yu Zhang, Jun Qi, Yun Yang, Po Yang\*;    
@@ -154,7 +154,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
      **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;  
     Published in *The 31st ACM International Conference on Information & Knowledge*
 
-
+<!-- 
 - `MSN 2021` [Modeling disease progression flexibly with nonlinear disease structure via multi-task learning](https://doi.org/10.1109/MSN53354.2021.00063);  
    **Menghui Zhou**, Xulong Wang, Yun Yang, Fengtao Nan, Yu Zhang, Jun Qi, Po Yang;  
    Published in *The 17th International Conference on Mobility, Sensing and Networking*  
