@@ -151,11 +151,12 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 - `CIKM 2022` [Multi-task Learning with Adaptive Global Temporal Structure for Predicting Alzheimer's Disease Progression](https://doi.org/10.1145/3511808.3557406);  
      **Menghui Zhou**, Yu Zhang, Tong Liu, Yun Yang, Po Yang;  
     Published in *The 31st ACM International Conference on Information & Knowledge*
-  
+
+<!-- 
 - `MSN 2021` [Modeling disease progression flexibly with nonlinear disease structure via multi-task learning](https://doi.org/10.1109/MSN53354.2021.00063);  
    **Menghui Zhou**, Xulong Wang, Yun Yang, Fengtao Nan, Yu Zhang, Jun Qi, Po Yang;  
    Published in *The 17th International Conference on Mobility, Sensing and Networking*  
-
+-->
 
 # 🌈  Professional Activities
 - PC Members:
