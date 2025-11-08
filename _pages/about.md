@@ -54,10 +54,9 @@ Please drop me an email if you are interested in collaborating with me.
 
 - The Fortieth AAAI Conference on Artificial Intelligence (AAAI), 2026
 - This paper proposes a Dimensionality-Aware Rate Reduction (DARR) framework, 
-  which theoretically and empirically refines the Maximal Coding Rate Reduction (MCR²) 
-  principle by introducing a rough coding principle—showing that in supervised learning, 
+  which refines the Maximal Coding Rate Reduction (MCR²) by introducing a rough coding principle—showing that in supervised learning, 
   using a larger coding precision to encode features more coarsely improves 
-  model fitting and generalization.
+  model generalization.
 
 </div>
 </div>
