@@ -42,7 +42,7 @@ Please drop me an email if you are interested in collaborating with me.
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">TKDE 2024</div>
+<div class="badge">AAAI 2026</div>
 <img src='images/AAAI2026-500x300.png' alt="sym" width="100%">
 </div>
 </div>
@@ -66,7 +66,7 @@ Please drop me an email if you are interested in collaborating with me.
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">AAAI 2026</div>
+<div class="badge">TKDE 2024</div>
 <img src='images/tkde2024-500x300.png' alt="sym" width="100%">
 </div>
 </div>
