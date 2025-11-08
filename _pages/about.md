@@ -161,7 +161,7 @@ Disease Progression Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnu
 # 🌈  Professional Activities
 - PC Members:
   - Conference: ICML / NeurIPS / ICLR / AAAI / KDD, etc.
-  - Journal: TKDE / TNNLS / TCYB / PR / KBS, etc.
+  - Journal: TKDE / TNNLS / PR / KBS / EAAI, etc.
 
 
 # 🎖 Honors and Awards
