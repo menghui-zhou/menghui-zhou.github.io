@@ -6,6 +6,7 @@ import re
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
@@ -65,4 +66,12 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except (HTTPError, URLError, TimeoutError, ValueError) as error:
+        message = f'Google Scholar refresh unavailable ({error}); retaining the last verified citation total.'
+        print(f'::warning::{message}')
+        summary = os.environ.get('GITHUB_STEP_SUMMARY')
+        if summary:
+            with open(summary, 'a', encoding='utf-8') as report:
+                report.write(message + '\n')
