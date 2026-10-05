@@ -115,11 +115,9 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=t8Y_gn
 
 <hr>
 <div style="height: 25px;"></div>
-<center>
-<script type="text/javascript" src="https://widget.supercounters.com/ssl/map.js"></script>
-<script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1739176,"ffffff","b22222",80)</script><br>
-<noscript><a href="https://www.supercounters.com/">Visitor map</a></noscript>
-</center>
+<div style="text-align: center;">
+<a href="https://info.flagcounter.com/4apG"><img src="https://s05.flagcounter.com/map/4apG/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="World map of visitor countries" style="max-width: 100%; height: auto; border: 0;"></a>
+</div>
 
 
 
