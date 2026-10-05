@@ -48,9 +48,9 @@ I develop multi-task and statistical learning methods for **single-disease and c
 
 # 🔥 News
 
-- **2026:** My Ph.D. thesis has been submitted; I am awaiting my viva.
-- **2026:** First-author paper *Less Structure is More: Minimal Representations for Supervised Learning* at NeurIPS 2026.
-- **2026:** Co-corresponding-author paper *Beyond Single Scores: A Multi-Cognitive Objective Learning for AD Progression Prediction* published in *Pattern Recognition*.
+- **2026.10:** My Ph.D. thesis has been submitted; I am awaiting my viva.
+- **2026.09:** My paper *Less Structure is More: Minimal Representations for Supervised Learning* was accepted by NeurIPS 2026.
+- **2026.06:** Our paper *Beyond Single Scores: A Multi-Cognitive Objective Learning for AD Progression Prediction*, on which I am a co-corresponding author, was accepted by *Pattern Recognition*.
 - **2025.05:** Co-corresponding-author paper on joint image synthesis and fusion accepted by *Engineering Applications of Artificial Intelligence*.
 - **2024.12:** Four papers accepted by the IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
 
