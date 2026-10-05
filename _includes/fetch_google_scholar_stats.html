@@ -1,19 +1,26 @@
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
+(function () {
+    function showCitations(data) {
+        if (data.scholar_id !== 't8Y_gnsAAAAJ' || !Number.isInteger(data.citedby) || data.citedby < 0) {
+            throw new Error('Invalid Google Scholar citation data');
+        }
+        var total = document.getElementById('total_cit');
+        if (total) {
+            total.textContent = data.citedby.toLocaleString('en-GB');
+            if (data.updated) {
+                total.title = 'Last checked: ' + data.updated.slice(0, 10);
+            }
+        }
+    }
+    var source = 'https://raw.githubusercontent.com/{{ site.repository }}/main/_data/google-scholar.json';
+    fetch(source, {cache: 'no-store', signal: AbortSignal.timeout(10000)})
+        .then(function (response) {
+            if (!response.ok) { throw new Error('Citation data unavailable'); }
+            return response.json();
+        })
+        .then(showCitations)
+        .catch(function () {
+            // Keep the last verified count rendered by Jekyll if fetching fails.
         });
-    })
+})();
 </script>

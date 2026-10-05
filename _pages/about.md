@@ -60,6 +60,8 @@ I develop multi-task and statistical learning methods for **single-disease and c
 
 # 📝 Selected Publications
 
+Google Scholar citations: **<span id="total_cit" title="Last checked: {{ site.data['google-scholar'].updated | slice: 0, 10 }}">{{ site.data['google-scholar'].citedby }}</span>** · [Google Scholar](https://scholar.google.com/citations?user=t8Y_gnsAAAAJ&hl=en)
+
 - **NeurIPS 2026** — [Less Structure is More: Minimal Representations for Supervised Learning](https://openreview.net/forum?id=yt1Bywu2lu)<br>
   **Menghui Zhou**, Vitaveska Lanfranchi, Po Yang.<br>
   *Conference on Neural Information Processing Systems (NeurIPS), 2026.*
