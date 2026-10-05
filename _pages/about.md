@@ -115,10 +115,11 @@ See my [Google Scholar profile](https://scholar.google.com/citations?user=t8Y_gn
 
 <hr>
 <div style="height: 25px;"></div>
-<div align="center">
-<a href='https://clustrmaps.com/site/1bw4v'  title='Visit tracker'>
-<img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=QjzhdT3Oe4EwddJpt7uzrPc4x5n47N6UfVJ4LdvZFKI'/></a>
-</div>
+<center>
+<script type="text/javascript" src="https://widget.supercounters.com/ssl/map.js"></script>
+<script type="text/javascript">var sc_map_var = sc_map_var || [];sc_map(1739176,"ffffff","b22222",80)</script><br>
+<noscript><a href="https://www.supercounters.com/">Visitor map</a></noscript>
+</center>
 
 
 

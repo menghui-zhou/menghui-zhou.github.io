@@ -9,6 +9,7 @@ name: Update Google Scholar Citations
     paths:
       - '.github/workflows/google_scholar_crawler.yaml'
       - 'google_scholar_crawler/**'
+      - '_pages/about.md'
 
 permissions:
   contents: write
