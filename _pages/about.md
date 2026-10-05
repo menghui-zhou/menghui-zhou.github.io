@@ -94,26 +94,6 @@ I develop multi-task and statistical learning methods for **single-disease and c
 
 See my [Google Scholar profile](https://scholar.google.com/citations?user=t8Y_gnsAAAAJ) for the full publication record.
 
-<span class='anchor' id='projects'></span>
-
-# 🧪 Research Projects and Experience
-
-### Mobilise-D · University of Sheffield
-
-Developed machine learning methods using free-living gait estimates across multiple disease conditions, including disease severity prediction and feature importance analysis to identify informative mobility measures.
-
-### PDWearML · Yunnan University
-
-Contributed to Parkinson's disease severity assessment using wrist-worn sensor data and the release of an open dataset. The [IEEE DataPort dataset](https://ieee-dataport.org/documents/pdwearml-leveraging-daily-activities-fast-parkinsons-disease-severity-assessment-wearable) recorded **11,885 downloads as of 4 October 2026**.
-
-### AI-Enabled Climate-Smart Fertiliser Practice · University of Sheffield
-
-Developed multi-task learning methods to balance winter wheat yield and greenhouse gas emissions, with validation through agricultural field trials.
-
-### Teaching and Research Mentoring
-
-Supported the teaching of machine learning theory and practical programming at the University of Sheffield. Mentored international master's students alongside Professor Po Yang on research ideas, manuscript writing, submission and revision.
-
 <span class='anchor' id='service'></span>
 
 # 🌈 Professional Activities
