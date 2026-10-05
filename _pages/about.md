@@ -50,6 +50,8 @@ I develop multi-task and statistical learning methods for **single-disease and c
 
 - **2026.10:** My Ph.D. thesis has been submitted; I am awaiting my viva.
 - **2026.09:** My paper *Less Structure is More: Minimal Representations for Supervised Learning* was accepted by NeurIPS 2026.
+- **2026.09:** Our preprint [On the Limits of Maximal Coding Rate Reduction for Out-of-Distribution Generalisation](https://arxiv.org/abs/2609.21001) is available on arXiv (17 September 2026).
+- **2026.08:** Our preprint [DeMMO: Longitudinal and Cross-Disease Modelling of Digital Mobility Outcomes via Multi-Task Learning](https://arxiv.org/abs/2608.25073) is available on arXiv (25 August 2026).
 - **2026.06:** Our paper *Beyond Single Scores: A Multi-Cognitive Objective Learning for AD Progression Prediction*, on which I am a co-corresponding author, was accepted by *Pattern Recognition*.
 - **2025.05:** Co-corresponding-author paper on joint image synthesis and fusion accepted by *Engineering Applications of Artificial Intelligence*.
 - **2024.12:** Four papers accepted by the IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
